@@ -1,7 +1,6 @@
 # What Am I Eating?
 
-Upload a meal photo and get an instant nutrition estimate powered by Gemini.  
-Check it out - [**Live**](https://sanjeev-ragunathan.github.io/mlh-ai-hackfest-04-2026/)
+Upload a meal photo and get an instant nutrition estimate powered by Gemini.
 
 ![What Am I Eating app screenshot](images/app-screenshot.png)
 
