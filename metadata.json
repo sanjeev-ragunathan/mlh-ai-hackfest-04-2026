@@ -1,0 +1,6 @@
+{
+  "name": "What Am I Eating?",
+  "description": "Snap your meal. Get an instant nutrition estimate powered by Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
